@@ -1,0 +1,1249 @@
+
+
+FaktúryFaktúry
+
+
+/* Styly formulara na vyhladavanie */
+#eregister-form     { font-family: "Helvetica Neue", Arial, Helvetica, sans-serif; margin: 0; padding: 0; }
+/* Styly formulara na vyhladavanie */
+.eregister          { font-family: "Helvetica Neue", Arial, Helvetica, sans-serif; margin: 0; padding: 0; }
+.eregister table tbody  tr:hover{
+    cursor: pointer;
+}
+.fancybox-slide--iframe .fancybox-content {
+    max-width: 1450px!important;
+    min-height: 800px!important;
+}
+.we_button{
+  max-width: 40%;
+}
+
+
+
+
+  
+    
+          Suma od:
+          
+        
+     
+  
+    
+          Suma do:
+          
+        
+    
+    
+    
+          Rok:
+          
+                    
+                2010
+                2011
+                2012
+                2013
+                2014
+                2015
+                2016
+                2017
+                2018
+                2019
+                2020
+                2021
+                2022
+                2023
+                
+      
+    
+
+
+    
+    
+          Mesiac:
+          
+        
+        Január 
+        Február 
+        Marec 
+        Apríl 
+        Máj 
+        Jún 
+        Júl 
+        August
+        September
+        Október 
+        November 
+        December 
+      
+        
+    
+    
+    
+          Hľadať v:
+          
+        Odberateľ
+          Dodávateľ
+          Predmet
+          Číslo
+        
+        
+    
+    
+          
+            Hľadaný výraz:
+              
+          
+      
+
+  
+    
+      
+    
+  
+
+
+
+  Source 2015
+
+
+  #mark_img.mark_img {
+    display: block;
+    width: 0px;
+    height: 0px;
+    padding: 0px;
+    margin: 0px;
+    border: none;
+  }
+  .uradne_rss_wrap .col-sm-6 {
+    width: 50%;
+  }
+  .uradne_rss_box {
+    /* position: relative; */
+  }
+  .uradne_rss_link {
+    /* position: absolute;
+    right: 0; */
+  }
+  .uradne_rss_inner {
+    text-align: end;
+  }
+  .search_results_info {
+    margin: 10px 0px;
+  }
+  .uradne_p {
+    margin-top: 10px;
+    border-top: 1px solid #ddd;
+  }
+  .uradne_p .pagination {
+    display: inline-block;
+    padding: 0px;
+  }
+  .uradne_p .pagination .page-item {
+    display: inline-block;
+  }
+  .uradne_p .pagination .page-item:not(.disabled) .page-link {
+    padding: 3px;
+    border: 1px solid #ccc;
+    background: #dddddd;
+  }
+  .uradne_p .pagination .page-item.active .page-link {
+    padding: 3px;
+    background: #bbb;
+  }
+  .uradne_empty {
+  }
+  .author {
+    text-align: end;
+  }
+
+
+  
+    
+      
+        Počet položiek na stránke:
+      
+      
+        2050100      
+    
+  
+  Výsledky vyhľadávania (počet dokumentov vyhovujúcich zadaným kritériám: 6058)
+  
+  
+    
+    
+    
+      
+        
+          RSS 
+        
+      
+    
+  
+  
+  
+    
+      
+        
+          
+            Interné číslo
+            Predmet
+            Zmluvná strana
+            Cena celkom (s DPH)
+          
+        
+        
+                                                                  
+                  DF2023/459
+                  Oprava kosačiek
+                  
+                    Odb.: Jarovnice
+                    Dod.: Ing. Peter Dzadík - Velotera
+                  
+                  535.36 €
+                
+                                              
+                  DF2023/458
+                  Prevádzkovanie a údržba osvetlenia
+                  
+                    Odb.: Jarovnice
+                    Dod.: ELTODO OSVETLENIE, s.r.o.
+                  
+                  3 325.69 €
+                
+                                              
+                  DF2023/457
+                  Ročná kontrola ZOTSH v kultúrnom dome
+                  
+                    Odb.: Jarovnice
+                    Dod.: Klahoss s.r.o.
+                  
+                  493.68 €
+                
+                                              
+                  DF2023/456
+                  Braná na dvere do budovy MŠ
+                  
+                    Odb.: Jarovnice
+                    Dod.: VIRBA s.r.o.
+                  
+                  1 065 €
+                
+                                              
+                  DF2023/455
+                  Aktivačná činnosť náradie - MOS
+                  
+                    Odb.: Jarovnice
+                    Dod.: STAV-MAJO s.r.o.
+                  
+                  121.45 €
+                
+                                              
+                  DF2023/454
+                  Aktivačná činnosť náradie a odevy - MOS
+                  
+                    Odb.: Jarovnice
+                    Dod.: STAV-MAJO s.r.o.
+                  
+                  2 147.56 €
+                
+                                              
+                  DF2023/453
+                  Telefónne poplatky
+                  
+                    Odb.: Jarovnice
+                    Dod.: Slovak Telekom, a.s
+                  
+                  2.06 €
+                
+                                              
+                  DF2023/452
+                  Doména, hosting
+                  
+                    Odb.: Jarovnice
+                    Dod.: webex.digital s.r.o
+                  
+                  25.60 €
+                
+                                              
+                  DF2023/451
+                  Technologický servis ČOV
+                  
+                    Odb.: Jarovnice
+                    Dod.: EKOSERVIS
+                  
+                  299.34 €
+                
+                                              
+                  DF2023/450
+                  Odvoz kalov
+                  
+                    Odb.: Jarovnice
+                    Dod.: SUPER EXPRES TRANSPORT, s.r.o
+                  
+                  2 665.20 €
+                
+                                              
+                  DF2023/449
+                  Čistenie kanalizačného potrubia
+                  
+                    Odb.: Jarovnice
+                    Dod.: SUPER EXPRES TRANSPORT, s.r.o
+                  
+                  588 €
+                
+                                              
+                  DF2023/448
+                  Tlaková skúška vonkajšieho hydrantu MŠ
+                  
+                    Odb.: Jarovnice
+                    Dod.: Vladimír JÁNOŠ - REHAP
+                  
+                  399.94 €
+                
+                                              
+                  DF2023/447
+                  Telefónne poplatky
+                  
+                    Odb.: Jarovnice
+                    Dod.: O2 Slovakia, s.r.o.
+                  
+                  24 €
+                
+                                              
+                  DF2023/446
+                  Stavebné práce: Pozemné komunikácie
+                  
+                    Odb.: Jarovnice
+                    Dod.: COLAS Slovakia, a.s.
+                  
+                  225 987.74 €
+                
+                                              
+                  DF2023/445
+                  Náradie na AČ
+                  
+                    Odb.: Jarovnice
+                    Dod.: Ing. Peter Dzadík - Velotera
+                  
+                  648 €
+                
+                                              
+                  DF2023/444
+                  Elektroinštalačné práce
+                  
+                    Odb.: Jarovnice
+                    Dod.: FILKA s.r.o.
+                  
+                  2 940 €
+                
+                                              
+                  DF2023/443
+                  Predplatné Verejná správa- vyúčt. zálohy
+                  
+                    Odb.: Jarovnice
+                    Dod.: Poradca podnikateľa, spol. s r.o.
+                  
+                  204 €
+                
+                                              
+                  DF2023/442
+                  Predplatné Bezpečnosť v praxi - vyúčt. zálohy
+                  
+                    Odb.: Jarovnice
+                    Dod.: Poradca podnikateľa, spol. s r.o.
+                  
+                  110 €
+                
+                                              
+                  DF2023/441
+                  Stavebné práce: Zvýšenie zdravotníckych kapacít
+                  
+                    Odb.: Jarovnice
+                    Dod.: IBEG, a.s.
+                  
+                  333 776.81 €
+                
+                                              
+                  DF2023/440
+                  Vodárenské práce
+                  
+                    Odb.: Jarovnice
+                    Dod.: Vladimír Jakubík
+                  
+                  2 648.72 €
+                
+                                              
+                  DF2023/439
+                  Oprava vodovodného potrubia
+                  
+                    Odb.: Jarovnice
+                    Dod.: Vladimír Jakubík
+                  
+                  1 875.48 €
+                
+                                              
+                  DF2023/438
+                  Palivo
+                  
+                    Odb.: Jarovnice
+                    Dod.: CCS Slovenská spoločnosť pre platobné karty, s.r.o.
+                  
+                  358.85 €
+                
+                                              
+                  DF2023/437
+                  Oprava auta Peugeot
+                  
+                    Odb.: Jarovnice
+                    Dod.: Peter Makara - MAKY
+                  
+                  183 €
+                
+                                              
+                  DF2023/436
+                  Prezutie áut
+                  
+                    Odb.: Jarovnice
+                    Dod.: Peter Makara - MAKY
+                  
+                  145 €
+                
+                                              
+                  DF2023/435
+                  Oprava auta Logan
+                  
+                    Odb.: Jarovnice
+                    Dod.: Peter Makara - MAKY
+                  
+                  349.43 €
+                
+                                              
+                  DF2023/434
+                  Spotreba elektriny - vodovod
+                  
+                    Odb.: Jarovnice
+                    Dod.: Východoslovenská distribučná, a.s.
+                  
+                  1 444.14 €
+                
+                                              
+                  DF2023/433
+                  Spotreba elektriny - Novostavba MŠ
+                  
+                    Odb.: Jarovnice
+                    Dod.: Východoslovenská distribučná, a.s.
+                  
+                  205.28 €
+                
+                                              
+                  DF2023/432
+                  Spotreba elektriny - ZS,DS,KD,ČOV,237
+                  
+                    Odb.: Jarovnice
+                    Dod.: Východoslovenská distribučná, a.s.
+                  
+                  2 243.44 €
+                
+                                              
+                  DF2023/431
+                  Spotreba elektirny - 563+564
+                  
+                    Odb.: Jarovnice
+                    Dod.: Východoslovenská energetika a.s.
+                  
+                  1 480.90 €
+                
+                                              
+                  DF2023/430
+                  Servis EZS
+                  
+                    Odb.: Jarovnice
+                    Dod.: TRANS-MONT, s.r.o Prešov
+                  
+                  49.68 €
+                
+                                              
+                  DF2023/429
+                  Externý manažment - Novostavba MŠ
+                  
+                    Odb.: Jarovnice
+                    Dod.: MEDIINVEST Consulting, s.r.o.
+                  
+                  139.20 €
+                
+                                              
+                  DF2023/428
+                  Proces VO: Rozšírenie ZŠ - zhotoviteľ
+                  
+                    Odb.: Jarovnice
+                    Dod.: LEDAS, s.r.o.
+                  
+                  2 100 €
+                
+                                              
+                  DF2023/427
+                  Preprava - klub dôchodcov
+                  
+                    Odb.: Jarovnice
+                    Dod.: EZOTOUR s.r.o.
+                  
+                  746.88 €
+                
+                                              
+                  DF2023/426
+                  Práce stroja
+                  
+                    Odb.: Jarovnice
+                    Dod.: Nikola Husárová
+                  
+                  754 €
+                
+                                              
+                  DF2023/425
+                  Odpadové hospodárstvo - aktualizácia
+                  
+                    Odb.: Jarovnice
+                    Dod.: Nakladatelství FORUM s.r.o., organizačná zložka
+                  
+                  150 €
+                
+                                              
+                  DF2023/424
+                  Odvoz kalov
+                  
+                    Odb.: Jarovnice
+                    Dod.: SUPER EXPRES TRANSPORT, s.r.o
+                  
+                  1 504.80 €
+                
+                                              
+                  DF2023/423
+                  Telefónne poplatky-REGOB
+                  
+                    Odb.: Jarovnice
+                    Dod.: Slovak Telekom, a.s
+                  
+                  43.01 €
+                
+                                              
+                  DF2023/422
+                  Telefónne poplatky
+                  
+                    Odb.: Jarovnice
+                    Dod.: Slovak Telekom, a.s
+                  
+                  17 €
+                
+                                              
+                  DF2023/421
+                  Plyn - č.d. 237
+                  
+                    Odb.: Jarovnice
+                    Dod.: Slovenský plynárenský priemysel, a.s.
+                  
+                  169 €
+                
+                                              
+                  DF2023/420
+                  Materiál
+                  
+                    Odb.: Jarovnice
+                    Dod.: MIREX armatúry, s.r.o.
+                  
+                  747.88 €
+                
+                                              
+                  DF2023/419
+                  Prev. verejnej kanalizácie
+                  
+                    Odb.: Jarovnice
+                    Dod.: EKOSERVIS
+                  
+                  59.75 €
+                
+                                              
+                  DF2023/418
+                  Prev. verejného vodovodu
+                  
+                    Odb.: Jarovnice
+                    Dod.: EKOSERVIS
+                  
+                  39.84 €
+                
+                                              
+                  DF2023/417
+                  Spotreba elektriny - ZS, Has.zbroj., b.d.542
+                  
+                    Odb.: Jarovnice
+                    Dod.: Východoslovenská distribučná, a.s.
+                  
+                  100 €
+                
+                                              
+                  DF2023/416
+                  Plyn - byt v 542
+                  
+                    Odb.: Jarovnice
+                    Dod.: Východoslovenská energetika a.s.
+                  
+                  10 €
+                
+                                              
+                  DF2023/415
+                  Plyn - zdravotné stredisko
+                  
+                    Odb.: Jarovnice
+                    Dod.: Východoslovenská energetika a.s.
+                  
+                  737.50 €
+                
+                                              
+                  DF2023/414
+                  Spotreba elektriny - Komunitné centrum
+                  
+                    Odb.: Jarovnice
+                    Dod.: Východoslovenská distribučná, a.s.
+                  
+                  536 €
+                
+                                              
+                  DF2023/413
+                  Plyn - kultúrny dom
+                  
+                    Odb.: Jarovnice
+                    Dod.: Východoslovenská energetika a.s.
+                  
+                  732.40 €
+                
+                                              
+                  DF2023/412
+                  Prenájom kopírky Bizhub 227
+                  
+                    Odb.: Jarovnice
+                    Dod.: IKARO s.r.o.
+                  
+                  64.80 €
+                
+                                              
+                  DF2023/411
+                  Prenájom kopírky Bizhub C458
+                  
+                    Odb.: Jarovnice
+                    Dod.: IKARO s.r.o.
+                  
+                  309.18 €
+                
+                                              
+                  DF2023/410
+                  Oprava elektornickej tabule
+                  
+                    Odb.: Jarovnice
+                    Dod.: Galileo Corporation s.r.o.
+                  
+                  1 564.80 €
+                
+                                              
+                  DF2023/409
+                  Vývoz odpadu
+                  
+                    Odb.: Jarovnice
+                    Dod.: Marius Pedersen, a.s.
+                  
+                  21 902.68 €
+                
+                                              
+                  DF2023/408
+                  Materiál na tvorbu v KC
+                  
+                    Odb.: Jarovnice
+                    Dod.: Melora Lab s.r.o.
+                  
+                  75.65 €
+                
+                                              
+                  DF2023/407
+                  Sociálne kupóny
+                  
+                    Odb.: Jarovnice
+                    Dod.: Up Slovensko, s.r.o.
+                  
+                  15 000 €
+                
+                                              
+                  DF2023/406
+                  Stavebný dozor: Pozemné komunikácie
+                  
+                    Odb.: Jarovnice
+                    Dod.: Milan Závacký
+                  
+                  1 200 €
+                
+                                              
+                  DF2023/405
+                  Palivo
+                  
+                    Odb.: Jarovnice
+                    Dod.: CCS Slovenská spoločnosť pre platobné karty, s.r.o.
+                  
+                  616.07 €
+                
+                                              
+                  DF2023/404
+                  Funkcia zodpovednej osoby
+                  
+                    Odb.: Jarovnice
+                    Dod.: BeeM Servis s.r.o.
+                  
+                  210 €
+                
+                                              
+                  DF2023/403
+                  Systémová podpora URBIS
+                  
+                    Odb.: Jarovnice
+                    Dod.: MADE spol. s r.o.
+                  
+                  750.12 €
+                
+                                              
+                  DF2023/402
+                  Internet
+                  
+                    Odb.: Jarovnice
+                    Dod.: WI-NET s.r.o.
+                  
+                  32 €
+                
+                                              
+                  DF2023/401
+                  Telefónne poplatky
+                  
+                    Odb.: Jarovnice
+                    Dod.: O2 Slovakia, s.r.o.
+                  
+                  500.14 €
+                
+                                              
+                  DF2023/400
+                  Uhlová brúska
+                  
+                    Odb.: Jarovnice
+                    Dod.: Ladislav Goban - LAGON
+                  
+                  155 €
+                
+                                              
+                  DF2023/399
+                  Kamenivo
+                  
+                    Odb.: Jarovnice
+                    Dod.: S.F.Bouw s.r.o.
+                  
+                  1 083.07 €
+                
+                                              
+                  DF2023/398
+                  Práce stroja
+                  
+                    Odb.: Jarovnice
+                    Dod.: S.F.Bouw s.r.o.
+                  
+                  300 €
+                
+                                              
+                  DF2023/397
+                  Právne služby
+                  
+                    Odb.: Jarovnice
+                    Dod.: JUDr. Pavol MATIJA, advokát
+                  
+                  210 €
+                
+                                              
+                  DF2023/396
+                  Činnosť koordinátora bezpečnosti na stavbe
+                  
+                    Odb.: Jarovnice
+                    Dod.: R.D.TECH. Radoslav Dugas
+                  
+                  900 €
+                
+                                              
+                  DF2023/395
+                  Čistenie kanalizačného potrubia
+                  
+                    Odb.: Jarovnice
+                    Dod.: SUPER EXPRES TRANSPORT, s.r.o
+                  
+                  1 281.60 €
+                
+                                              
+                  DF2023/394
+                  Direktor - predplatné 2023 - vyúčt. zálohy
+                  
+                    Odb.: Jarovnice
+                    Dod.: Wolters Kluwer s r.o.
+                  
+                  74.50 €
+                
+                                              
+                  DF2023/393
+                  Materiál
+                  
+                    Odb.: Jarovnice
+                    Dod.: GLAstav s.r.o.
+                  
+                  408.20 €
+                
+                                              
+                  DF2023/392
+                  Výzdoba na primície
+                  
+                    Odb.: Jarovnice
+                    Dod.: Katarína Marinicová - KATI
+                  
+                  2 450 €
+                
+                                              
+                  DF2023/391
+                  Materiál
+                  
+                    Odb.: Jarovnice
+                    Dod.: STAV-MAJO s.r.o.
+                  
+                  312.64 €
+                
+                                              
+                  DF2023/390
+                  Oprava traktora
+                  
+                    Odb.: Jarovnice
+                    Dod.: Slavko JURKO
+                  
+                  1 382.06 €
+                
+                                              
+                  DF2023/389
+                  Položenie dlažby
+                  
+                    Odb.: Jarovnice
+                    Dod.: Róbert Magáč
+                  
+                  2 150 €
+                
+                                              
+                  DF2023/388
+                  Stavebné práce: Prestupné bývanie
+                  
+                    Odb.: Jarovnice
+                    Dod.: ČECH s.r.o.
+                  
+                  272 715.80 €
+                
+                                              
+                  DF2023/387
+                  Stavebné práce: Prestupné bývanie
+                  
+                    Odb.: Jarovnice
+                    Dod.: ČECH s.r.o.
+                  
+                  173 583.42 €
+                
+                                              
+                  DF2023/386
+                  Chlornan sodný
+                  
+                    Odb.: Jarovnice
+                    Dod.: Ing. Jaroslav Baran - AGRO-DEZ
+                  
+                  159.84 €
+                
+                                              
+                  DF2023/385
+                  Odvoz kalov
+                  
+                    Odb.: Jarovnice
+                    Dod.: SUPER EXPRES TRANSPORT, s.r.o
+                  
+                  1 510.02 €
+                
+                                              
+                  DF2023/384
+                  DS 2023
+                  
+                    Odb.: Jarovnice
+                    Dod.: webex.digital s.r.o
+                  
+                  120 €
+                
+                                              
+                  DF2023/383
+                  Telefónne poplatky
+                  
+                    Odb.: Jarovnice
+                    Dod.: Slovak Telekom, a.s
+                  
+                  2 €
+                
+                                              
+                  DF2023/382
+                  Technické zabezpečenie primícií pred kostolom
+                  
+                    Odb.: Jarovnice
+                    Dod.: ((e)) s.r.o.
+                  
+                  2 100 €
+                
+                                              
+                  DF2023/381
+                  Ozvučenie na primície
+                  
+                    Odb.: Jarovnice
+                    Dod.: Jozef Harničár - Hárdy Studio
+                  
+                  1 068 €
+                
+                                              
+                  DF2023/380
+                  Technologický servis ČOV
+                  
+                    Odb.: Jarovnice
+                    Dod.: EKOSERVIS
+                  
+                  101.64 €
+                
+                                              
+                  DF2023/379
+                  Revízia EPS
+                  
+                    Odb.: Jarovnice
+                    Dod.: TRANS-MONT, s.r.o Prešov
+                  
+                  552 €
+                
+                                              
+                  DF2023/378
+                  Čistenie kanalizačného potrubia
+                  
+                    Odb.: Jarovnice
+                    Dod.: SUPER EXPRES TRANSPORT, s.r.o
+                  
+                  600 €
+                
+                                              
+                  DF2023/377
+                  Aktivačná činnosť - Náradie a pracovné odevy
+                  
+                    Odb.: Jarovnice
+                    Dod.: STAV-MAJO s.r.o.
+                  
+                  334.32 €
+                
+                                              
+                  DF2023/376
+                  Obrusy
+                  
+                    Odb.: Jarovnice
+                    Dod.: Tibor Farkaš - BELIVIE
+                  
+                  3 120 €
+                
+                                              
+                  DF2023/375
+                  Telefónne poplatky
+                  
+                    Odb.: Jarovnice
+                    Dod.: O2 Slovakia, s.r.o.
+                  
+                  24 €
+                
+                                              
+                  DF2023/374
+                  Kamenivo
+                  
+                    Odb.: Jarovnice
+                    Dod.: S.F.Bouw s.r.o.
+                  
+                  200.29 €
+                
+                                              
+                  DF2023/373
+                  Prevádzkovanie a údržba osvetlenia
+                  
+                    Odb.: Jarovnice
+                    Dod.: ELTODO OSVETLENIE, s.r.o.
+                  
+                  3 325.69 €
+                
+                                              
+                  DF2023/372
+                  Overenie konsolidovanej účtovnej závierky - 2022
+                  
+                    Odb.: Jarovnice
+                    Dod.: K.A.A.C. spol. s r.o.
+                  
+                  3 000 €
+                
+                                              
+                  DF2023/371
+                  Inventár do kuchyne v sále KD
+                  
+                    Odb.: Jarovnice
+                    Dod.: EUROGASTROP, s.r.o.
+                  
+                  1 872.70 €
+                
+                                              
+                  DF2023/370
+                  Umývanie okien v sále KD a čistenie koberca
+                  
+                    Odb.: Jarovnice
+                    Dod.: FEBA - ECO s.r.o.
+                  
+                  734.06 €
+                
+                                              
+                  DF2023/369
+                  Aktivačná činnosť náradie - MOS
+                  
+                    Odb.: Jarovnice
+                    Dod.: STAV-MAJO s.r.o.
+                  
+                  109.49 €
+                
+                                              
+                  DF2023/368
+                  Aktivačná činnosť náradie a odevy - MOS
+                  
+                    Odb.: Jarovnice
+                    Dod.: STAV-MAJO s.r.o.
+                  
+                  660.49 €
+                
+                                              
+                  DF2023/367
+                  Aktivačná činnosť náradie a odevy - MOS
+                  
+                    Odb.: Jarovnice
+                    Dod.: STAV-MAJO s.r.o.
+                  
+                  2 881.62 €
+                
+                                              
+                  DF2023/366
+                  Plyn - byt v 542
+                  
+                    Odb.: Jarovnice
+                    Dod.: Východoslovenská energetika a.s.
+                  
+                  10 €
+                
+                                              
+                  DF2023/365
+                  Čistenie kanalizačného potrubia
+                  
+                    Odb.: Jarovnice
+                    Dod.: SUPER EXPRES TRANSPORT, s.r.o
+                  
+                  1 197 €
+                
+                                              
+                  DF2023/364
+                  Proces VO - Zmeny a doplnky ÚPN
+                  
+                    Odb.: Jarovnice
+                    Dod.: RENDERTEAM, s.r.o.
+                  
+                  600 €
+                
+                                              
+                  DF2023/363
+                  Dlažba na schody
+                  
+                    Odb.: Jarovnice
+                    Dod.: RAMEX - SLOVAKIA, s.r.o.
+                  
+                  1 806.67 €
+                
+                                              
+                  DF2023/362
+                  Aplikácia infourad
+                  
+                    Odb.: Jarovnice
+                    Dod.: webex.digital s.r.o
+                  
+                  156 €
+                
+                                              
+                  DF2023/361
+                  Servisný poplatok-elektornická tabuľa
+                  
+                    Odb.: Jarovnice
+                    Dod.: Galileo Corporation s.r.o.
+                  
+                  284.40 €
+                
+                                              
+                  DF2023/360
+                  Palivo
+                  
+                    Odb.: Jarovnice
+                    Dod.: CCS Slovenská spoločnosť pre platobné karty, s.r.o.
+                  
+                  499.07 €
+                
+                                  
+      
+    
+    
+      
+      
+        
+        
+        
+          
+            
+              RSS 
+            
+          
+        
+      
+      
+              
+          
+                          
+                1
+              
+                          
+                2
+              
+                          
+                3
+              
+                          
+                4
+              
+                          
+                5
+              
+                          
+                ...
+              
+              
+                61
+              
+                          
+                »
+              
+                      
+        
+                  načítať ďalšie ...
+          
+          
+  
+
+  
+  
+    Generované portálom Uradne.sk
+  
+
+    
+        $(document).ready(function() {
+          if ($('select[name=hladanyRok]').find('option[value=""]').length < 1) {
+            $('select[name=hladanyRok]').prepend("<option value='' selected='selected'></option>");
+          }
+          var search_params = $.parseJSON('{"seolink":"faktury","p":"1","count":"100","custom_MarkRemoteIp":"185.227.171.1"}');
+          delete search_params.p;
+          //console.log(search_params);
+          if (search_params.hladanyRok != '') {
+            //console.log('Year selected');
+            $('select[name=hladanyRok]').val(search_params.hladanyRok);
+          }
+          $('.uradne_res').bind('click', function(ev) {
+            //ev.preventDefault();
+            let target = ev.target;
+            if (!target.classList.contains('LoadBtn')) {
+              return;
+            }
+            let next = $(this).find('.LoadBtn').attr('data-next');
+            let target_url = getUrlToPage(next);
+            $('.fa-spinner').show();
+            console.log('Show');
+            $.ajax({
+                url: target_url,
+                type: 'post',
+                data: search_params,
+                success: function(data) {
+                  let resp_p = new DOMParser().parseFromString(data, "text/html");
+                  let uradne_tb = resp_p.getElementsByClassName('uradne_tb')[0].children;
+                  let uradne_navB = resp_p.getElementsByClassName('uradne_navB')[0];
+                  let tb_j = $(uradne_tb);
+                  let navB_j = $(uradne_navB);
+                  $('.uradne_navB').remove();
+                  tb_j.appendTo('.uradne_tb').hide().fadeIn(2000);
+                  navB_j.appendTo('.uradne_res');
+                }
+            })
+          });
+          $('#count').bind('change', function(){
+            var count = $(this).val();
+            location.href = getUrlToPage(1, count);
+          });
+        });
+        function getParameterByName(name, url) {
+          if (!url) url = window.location.href;
+          name = name.replace(/[\[\]]/g, '\\$&');
+          var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+              results = regex.exec(url);
+          if (!results) return null;
+          if (!results[2]) return '';
+          return decodeURIComponent(results[2].replace(/\+/g, ' '));
+        }
+        function goToPage(page) {
+          let target_url = getUrlToPage(page);
+          if (target_url) {
+            $('#eregister-form').attr('action', target_url).submit();
+          }
+        }
+        function getUrlToPage(page, count, force_page){
+          if(!page) return false;
+          var target_url = null,
+          page_query = '&p=' + page,
+          current_url = location.href,
+          current_page = getParameterByName('p', current_url);
+          if (!current_page) {
+            target_url = current_url;
+            if (current_url.indexOf('?') === -1) {
+              target_url += '?' + page_query;
+            } else {
+              target_url += page_query;
+            }
+          } else {
+            target_url = current_url.replace('&p=' + current_page, page_query);
+          }
+          if (count) {
+            var current_count = getParameterByName('count', target_url);
+            var count_query = '&count=' + count;
+            if (!current_count) {
+              target_url += count_query;
+            } else {
+              target_url = target_url.replace('&count=' + current_count, count_query);
+            }
+          }
+          return target_url;
+        }
+    
+  
+      if (typeof gtag === 'function') {
+          gtag('config', 'G-62SXGDD5HK', {
+            'page_title' : location.hostname + ' - ' + document.title
+          });
+      } else if (typeof ga === 'function') {
+          ga('create', 'G-62SXGDD5HK', 'auto', 'uradneTracker');
+          ga('uradneTracker.send', 'pageview');
+      }
+  
+
+
+
+
